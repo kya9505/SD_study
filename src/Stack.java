@@ -7,7 +7,7 @@ public class Stack {
     private int ptr;
     //스택 용량
     private  int capacity;
-
+///
     public Stack(){};
     public Stack(int maxlength){
         //생성자를 이용해서 초기화
