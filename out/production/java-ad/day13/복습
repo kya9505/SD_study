@@ -1,0 +1,22 @@
+singlton pattern
+- 하나의 객체만을 가지는 클래스
+- 메모리 사용량을 줄일기위해 사용
+
+private class Singleton{
+private static Singleton singleton = new Singleton
+private Singlieton(){}
+public static Sigleton getInstance(){
+return singleton)}
+
+private 정적필드를 선언 후 초기화하고
+private 생성자선언 후
+singleton 값을 반환하는 getInstance 메소드를 선언해
+외부에서 객체를 생성하거나 값을 변경할 수 없고 값을 얻기만 할 수 있도록 만든다.
+
+
+상속
+부모class의 필드와 멤버메소드를 자식class가 사용할 수 있도록 상속 받는다.
+부모class를 생성 후 자식 class를 생성할 수 있다.
+자식class에 extends 하여 부모클래스를 선택할 수 있다.
+-> extends 시 자식클래스에 자동으로 super()//부모클래스 기본생성자가 호출됨
+
