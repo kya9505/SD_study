@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DS_study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PracticeRepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-ad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_advanced" vcs="Git" />
   </component>
 </project>
