@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="today 0204">
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/ResourceEx/FileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/ResourceEx/FileTryWithResourceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/ResourceEx/MyResouece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/ResourceEx/TryWithResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/ThrowsEx/TrowsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/homework/CardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/homework/CashPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/homework/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/userDefine/Acoount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/userDefine/InsufficientEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day2/userDefine/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="today 0204 fin">
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/CardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/CashPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/Exception-Ex01.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/Exception과 객체.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/PayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/PayMentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/ExceptionHomework/homework/Prob1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +72,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/java/java_advanced/src/day2/abstractinher",
+    "last_opened_file_path": "C:/Users/java/PracticeRepo/src/ExceptionHomework",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -89,6 +85,7 @@
       <recent name="Homework" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\java\PracticeRepo\src\ExceptionHomework" />
       <recent name="C:\Users\java\java_advanced\src\day2\abstractinher" />
       <recent name="C:\Users\java\PracticeRepo\out" />
       <recent name="C:\Users\java\PracticeRepo" />
@@ -155,13 +152,22 @@
       <option name="project" value="LOCAL" />
       <updated>1738648927773</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="today 0204 fin">
+      <option name="closed" value="true" />
+      <created>1738661742133</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738661742133</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home2" />
     <MESSAGE value="home final" />
     <MESSAGE value="today 0204" />
-    <option name="LAST_COMMIT_MESSAGE" value="today 0204" />
+    <MESSAGE value="today 0204 fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="today 0204 fin" />
   </component>
 </project>
