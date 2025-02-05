@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="today">
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RmoteMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Tv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RmoteMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RmoteMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Tv.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,32 +51,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CoffeeShop.executor": "Run",
-    "Application.Exception1.executor": "Run",
-    "Application.Exception2.executor": "Run",
-    "Application.FileEx.executor": "Run",
-    "Application.FileTryWithResourceEx.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PayMentTest.executor": "Run",
-    "Application.Prob1.executor": "Run",
-    "Application.RmoteMain.executor": "Run",
-    "Application.TestShape.executor": "Run",
-    "Application.TryWithResource.executor": "Run",
-    "Application.VideoShop.executor": "Run",
-    "Application.다형성.Homework.VideoShop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/java/PracticeRepo/src/ExceptionHomework",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CoffeeShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileTryWithResourceEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PayMentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prob1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RmoteMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestShape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResource.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VideoShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.다형성.Homework.VideoShop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/java/PracticeRepo/src/ExceptionHomework&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Homework.VideoShop" />
@@ -214,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738717762713</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="today">
+      <option name="closed" value="true" />
+      <created>1738724115519</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738724115519</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
