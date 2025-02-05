@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="today 0204 fin2">
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/yesterday" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="today" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,8 +166,35 @@
       <option name="project" value="LOCAL" />
       <updated>1738662005569</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="today">
+      <option name="closed" value="true" />
+      <created>1738715416352</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738715416352</updated>
+    </task>
+    <task id="LOCAL-00011" summary="today">
+      <option name="closed" value="true" />
+      <created>1738715539233</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738715539233</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home2" />
@@ -178,6 +202,7 @@
     <MESSAGE value="today 0204" />
     <MESSAGE value="today 0204 fin" />
     <MESSAGE value="today 0204 fin2" />
-    <option name="LAST_COMMIT_MESSAGE" value="today 0204 fin2" />
+    <MESSAGE value="today" />
+    <option name="LAST_COMMIT_MESSAGE" value="today" />
   </component>
 </project>
