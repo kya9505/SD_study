@@ -5,33 +5,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="interface Animal no hours">
-      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/FactoryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/FactoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/TVFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/homework/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/homework/CafeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/homework/Cousmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/homework/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/BestMovieModleling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/Movie2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/MovieVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/PracticeRepo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/out/PracticeRepo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/inher/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/out/inher/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/inher/InherMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/out/inher/InherMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/inher/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/out/inher/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/PracticeRepo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/PracticeRepo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/inher/BestMovieModleling.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/inher/BestMovieModleling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/inher/InherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/inher/InherMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/inher/Movie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/inher/Movie2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/inher/MovieVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/inher/MovieVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/CoffeShop/Beverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/CoffeShop/Coffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/CoffeShop/CoffeeShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/CoffeShop/Tea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/Shape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/Shape/Rectangular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/Shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/Shape/TestShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/VideoShop/Content.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/VideoShop/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/VideoShop/VideoShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/Wheeler/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/Wheeler/Prob1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/Wheeler/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Homework/Wheeler/Wheeler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/TV/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/TV/SmartTv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/TV/Tv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Vehicle/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Vehicle/DriveMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Vehicle/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Vehicle/Taxi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/Vehicle/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/abstractEx/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/abstractEx/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/abstractEx/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/abstractEx/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/AIrPlaneMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/AirPlane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/CarMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/SmartPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/SmartPhoneMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/SportsCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/ex01/SuperAirPlane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/CarMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/HankookTire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/KumhoTire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/ShapeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/Tire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day1/inh/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/ExceptionEx/Exception1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/ExceptionEx/Exception2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/ResourceEx/FileEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/ResourceEx/FileTryWithResourceEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/ResourceEx/MyResouece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/ResourceEx/TryWithResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/ThrowsEx/TrowsEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/abstractinher/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/abstractinher/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/abstractinher/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/abstractinher/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/CardPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/CashPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/Exception-Ex01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/Exception과 객체.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/PayException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/PayMentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/Payable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/homework/Prob1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/userDefine/Acoount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/userDefine/InsufficientEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_study/out/production/java_advanced/day2/userDefine/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryExample.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/TVFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/TVFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RmoteMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RmoteMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,34 +130,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnimalMain.executor": "Run",
-    "Application.CoffeeShop.executor": "Run",
-    "Application.Exception1.executor": "Run",
-    "Application.Exception2.executor": "Run",
-    "Application.FactoryMain.executor": "Run",
-    "Application.FileEx.executor": "Run",
-    "Application.FileTryWithResourceEx.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PayMentTest.executor": "Run",
-    "Application.Prob1.executor": "Run",
-    "Application.RmoteMain.executor": "Run",
-    "Application.TestShape.executor": "Run",
-    "Application.TryWithResource.executor": "Run",
-    "Application.VideoShop.executor": "Run",
-    "Application.다형성.Homework.VideoShop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/java/PracticeRepo/src",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnimalMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoffeeShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileTryWithResourceEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PayMentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prob1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RmoteMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestShape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResource.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VideoShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.다형성.Homework.VideoShop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/java/PracticeRepo/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Homework.VideoShop" />
@@ -287,7 +343,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738741738701</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="interface Animal no hours">
+      <option name="closed" value="true" />
+      <created>1738745420573</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1738745420573</updated>
+    </task>
+    <task id="LOCAL-00022" summary="interface Animal no hours">
+      <option name="closed" value="true" />
+      <created>1738745804278</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1738745804278</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
