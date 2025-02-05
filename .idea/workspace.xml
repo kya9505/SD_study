@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="interface Animal no hours">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS_study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DS_study/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="interface Animal no hours" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
