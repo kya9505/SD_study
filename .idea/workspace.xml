@@ -5,15 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="interface Animal no hours">
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/FactoryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRepo/src/Interface2/TVFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/AnimalMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Cheatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Cheatable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/BestMovieModleling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/Movie2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/MovieVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/PracticeRepo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/out/PracticeRepo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/inher/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/out/inher/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/inher/InherMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/out/inher/InherMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/out/inher/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/out/inher/Parent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/InterfaceAnimal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/InterfaceAnimal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/InterfaceAnimal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/InterfaceAnimal/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/InterfaceAnimal/AnimalMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/InterfaceAnimal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/InterfaceAnimal/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/PracticeRepo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/PracticeRepo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/inher/BestMovieModleling.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/inher/BestMovieModleling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/inher/InherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/inher/InherMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/inher/Movie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/inher/Movie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeRepo/src/inher/MovieVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeRepo/src/inher/MovieVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/TVFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/TVFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RmoteMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interfcae01/RmoteMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,33 +74,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AnimalMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CoffeeShop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exception1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exception2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileTryWithResourceEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PayMentTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prob1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RmoteMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestShape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryWithResource.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VideoShop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.다형성.Homework.VideoShop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/java/PracticeRepo/src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimalMain.executor": "Run",
+    "Application.CoffeeShop.executor": "Run",
+    "Application.Exception1.executor": "Run",
+    "Application.Exception2.executor": "Run",
+    "Application.FactoryMain.executor": "Run",
+    "Application.FileEx.executor": "Run",
+    "Application.FileTryWithResourceEx.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PayMentTest.executor": "Run",
+    "Application.Prob1.executor": "Run",
+    "Application.RmoteMain.executor": "Run",
+    "Application.TestShape.executor": "Run",
+    "Application.TryWithResource.executor": "Run",
+    "Application.VideoShop.executor": "Run",
+    "Application.다형성.Homework.VideoShop.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/java/PracticeRepo/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Homework.VideoShop" />
@@ -252,7 +271,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738740855901</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="interface Animal no hours">
+      <option name="closed" value="true" />
+      <created>1738741453815</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1738741453815</updated>
+    </task>
+    <task id="LOCAL-00020" summary="interface Animal no hours">
+      <option name="closed" value="true" />
+      <created>1738741738701</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1738741738701</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
