@@ -5,45 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cbe153a-de77-4e43-b164-bdb018867a36" name="Changes" comment="interface Animal no hours">
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/homework/Coustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day3/homework/CoustomerOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Car/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Car/HankookTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Car/KumhoTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Car/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Vehicle/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Vehicle/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Vehicle/DriverMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Vehicle/Hourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Vehicle/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex1/Vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q1/Remocon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q1/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q2/Soundable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q2/SoundableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q3/DaoExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q3/DataAccessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q3/MysqlDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex2/Q3/OracleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/ABCImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/Exam/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/Exam/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/Exam/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/Exam/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/InterfaceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/day4/ex3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/FactoryMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/IWorkingTogether.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/Interface2/IWorkingTogether.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/homework/Cafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/homework/Cafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/homework/CafeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_advanced/src/day3/homework/CafeOwner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/homework/Cousmer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_advanced/src/day3/homework/Menu.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738759351466</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="interface Animal no hours">
+      <option name="closed" value="true" />
+      <created>1738887498940</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1738887498940</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
